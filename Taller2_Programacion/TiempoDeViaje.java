@@ -6,7 +6,7 @@ public class TiempoDeViaje {
     int tTotal = 0;
 
     while (true) {
-        System.out.print("Ingrese el tiempo de viaje: ");
+        System.out.print("Duracion tramo: ");
         int tTramo = sc.nextInt();
 
         if (tTramo == 0) {
